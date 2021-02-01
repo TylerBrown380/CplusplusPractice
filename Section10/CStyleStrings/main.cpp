@@ -6,6 +6,7 @@ using namespace std;
 
 int main()
 {
+    //this Program is to test common c style string functions.
     char first_name[20] {};
     char last_name[20] {};
     char full_name[50] {};
