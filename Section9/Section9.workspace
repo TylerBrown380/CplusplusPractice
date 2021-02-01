@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section9" Database="" Version="10000">
+  <Project Name="DoWhile" Path="DoWhile/DoWhile.project" Active="No"/>
+  <Project Name="sectionChallenge" Path="sectionChallenge/sectionChallenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="DoWhile" ConfigName="Debug"/>
+      <Project Name="sectionChallenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="DoWhile" ConfigName="Release"/>
+      <Project Name="sectionChallenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
