@@ -1,0 +1,3 @@
+"E:\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\PointerArithmetic.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\PointerArithmetic.dir/objects.a @CMakeFiles\PointerArithmetic.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\PointerArithmetic.dir/objects.a -Wl,--no-whole-archive  -o PointerArithmetic.exe -Wl,--out-implib,libPointerArithmetic.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\PointerArithmetic.dir\linklibs.rsp
