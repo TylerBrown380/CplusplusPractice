@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-
+//This project is to work through some basic pointer examples.
     int num{10};
     cout << "the value of num is: " << num << endl;
     cout << "the sizeof num is: " << sizeof num << endl;
