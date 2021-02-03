@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "E:/CplusplusProjects/Section12/Challenge/main.cpp" "E:/CplusplusProjects/Section12/Challenge/cmake-build-debug/CMakeFiles/Challenge.dir/main.cpp.obj"
+  "E:/CplusplusProjects/Section12_PointersAndReferences/Challenge/main.cpp" "E:/CplusplusProjects/Section12_PointersAndReferences/Challenge/cmake-build-debug/CMakeFiles/Challenge.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
