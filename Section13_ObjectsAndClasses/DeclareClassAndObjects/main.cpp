@@ -33,7 +33,6 @@ int main() {
     tyler_account.withdraw(8000.5);
     std::cout << tyler_account.balance << std::endl;
 
-
     Player player1;
     player1.name = "Tyler";
     player1.health = 1000;
