@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/CplusplusProjects/Section13_ObjectsAndClasses/AccessModifiers/main.cpp
+iostream
+-
+string
+-
+vector
+-
+

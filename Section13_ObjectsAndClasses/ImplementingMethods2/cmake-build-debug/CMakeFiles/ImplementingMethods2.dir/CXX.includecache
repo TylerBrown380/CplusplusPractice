@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/CplusplusProjects/Section13_ObjectsAndClasses/ImplementingMethods2/Account.cpp
+Account.h
+E:/CplusplusProjects/Section13_ObjectsAndClasses/ImplementingMethods2/Account.h
+iostream
+-
+string
+-
+
+E:/CplusplusProjects/Section13_ObjectsAndClasses/ImplementingMethods2/Account.h
+string
+-
+
+E:/CplusplusProjects/Section13_ObjectsAndClasses/ImplementingMethods2/main.cpp
+iostream
+-
+Account.h
+E:/CplusplusProjects/Section13_ObjectsAndClasses/ImplementingMethods2/Account.h
+
